@@ -1,0 +1,63 @@
+header {
+  background: rgba(227, 229, 230, 0.26);
+  color: rgb(224, 22, 33);
+  text-align: right;
+  padding: 0px 10px 10px 10px;
+}
+section {
+  background: rgb(245, 232, 232);
+  padding: 20px;
+  color: black;
+}
+section {
+  background: rgb(250, 246, 246);
+  color: rgba(8, 5, 5, 0.616);
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+div {
+  margin: auto;
+  width: 100px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+li {
+  display: inline-block;
+  margin-left: 10px;
+}
+footer {
+  background: rgb(184, 178, 178);
+  padding: 10px 20px;
+}
+
+.back-image {
+  width: auto;
+  height: 500px;
+  background-image: url(/Images/steering.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-decoration: none;
+}
+h1 {
+  
+  color: rgb(230, 24, 24);
+  text-align: left;
+}
+a{
+text-decoration: none;
+}
+nav li a {
+  display: block;
+  font-family: arial;
+  color: rgb(125, 9, 241);
+  padding: 24px 14px;
+  text-decoration: none;
+  font-size: large;
+  font-style: bold;
+}
